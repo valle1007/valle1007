@@ -1,60 +1,64 @@
-# ¡Hola, soy Jorge! 👋 🔵🔴
+<div align="center">
 
+# Jorge Valle Rodríguez
+**Ingeniero en Sistemas Computacionales | Desarrollador Full Stack**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-004D98?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/valle1007)
+[![Email](https://img.shields.io/badge/Email-A70042?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu-correo@example.com)
+
+---
+
+</div>
+
+## 📌 Perfil Profesional
+
+Ingeniero egresado de la **Escuela Superior de Ingeniería Mecánica y Eléctrica (ESIME Zacatenco - IPN)**. Especializado en el desarrollo de software **Full Stack**, arquitectura de sistemas y análisis de datos. Enfocado en la creación de soluciones digitales eficientes, escalables y orientadas a resultados.
+
+* **Especialidades:** Desarrollo Full Stack (Python, JavaScript, React), Análisis de Datos y Ciberseguridad.
+* **Metodología:** Enfoque analítico, código limpio, desarrollo modular y mejores prácticas en control de versiones.
+
+---
+
+## 🛠️ Stack Tecnológico
+
+### Lenguajes & Frameworks
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=A70042&width=435&lines=Estudiante+de+Ingeniería+%40+IPN;Desarrollador+Full+Stack+%7C+Python+%2B+React;Més+que+un+developer+⚽" alt="Typing SVG" />
+  <img src="https://img.shields.io/badge/Python-004D98?style=for-the-badge&logo=python&logoColor=EDBB00" alt="Python" />
+  <img src="https://img.shields.io/badge/JavaScript-A70042?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-004D98?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/React-0077B6?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/HTML5-EDBB00?style=for-the-badge&logo=html5&logoColor=004D98" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
 </p>
 
----
-
-### ⚽ Sobre mí | *Més que un developer*
-
-- 🚀 Estudiante de ingeniería en la ESIME del **IPN**, apasionado por el desarrollo de software y la programación **Full Stack**.
-- 💻 Enfocado en construir soluciones eficientes, aprender continuamente y dominar el juego limpio en el código con **Python, JavaScript, React** y herramientas de infraestructura y ciberseguridad.
-- ⚡ Me encanta la táctica, el trabajo en equipo y resolver retos técnicos complejos.
-
----
-
-### 🛠️ Tecnologías y Herramientas
-
+### Herramientas & Entornos
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,js,ts,react,html,css,git,github,vscode,linux" alt="Skills" />
-  </a>
-</p>
-
-<!-- Badges con la estética Blaugrana del Barça -->
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-004D98?style=for-the-badge&logo=python&logoColor=EDBB00" />
-  <img src="https://img.shields.io/badge/JavaScript-A70042?style=for-the-badge&logo=javascript&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-004D98?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Git-EDBB00?style=for-the-badge&logo=git&logoColor=004D98" />
+  <img src="https://img.shields.io/badge/Git-004D98?style=for-the-badge&logo=git&logoColor=EDBB00" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Linux-A70042?style=for-the-badge&logo=linux&logoColor=white" alt="Linux" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
 </p>
 
 ---
 
-### 📊 Estadísticas en el Campo (GitHub Stats)
+## 📊 Métricas & Rendimiento
 
-<p align="center">
-  <!-- Tarjeta Blaugrana: Azul Barça (#004D98) -> Grana (#A70042) con detalles dorados (#EDBB00) -->
-  <img src="https://github-readme-stats.vercel.app/api?username=valle1007&show_icons=true&bg_color=30,004D98,A70042&title_color=EDBB00&text_color=FFFFFF&icon_color=EDBB00&border_color=EDBB00&border_radius=10" alt="GitHub Stats" width="48%" />
-  &nbsp;
-  <!-- Tarjeta de lenguajes más usados con la paleta Barça -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=valle1007&layout=compact&bg_color=30,004D98,A70042&title_color=EDBB00&text_color=FFFFFF&border_color=EDBB00&border_radius=10" alt="Top Langs" width="48%" />
-</p>
+<div align="center">
 
-<p align="center">
-  <!-- Tarjeta de racha (Streak Stats) en versión Blaugrana -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=valle1007&background=004D98&border=EDBB00&stroke=A70042&ring=EDBB00&fire=A70042&currFire=EDBB00&sideRing=A70042&date=FFFFFF&currStreakNum=FFFFFF&sideNumbers=FFFFFF&sideTitle=EDBB00&currStreakTitle=EDBB00" alt="GitHub Streak" width="97%" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=valle1007&show_icons=true&bg_color=004D98&title_color=EDBB00&text_color=FFFFFF&icon_color=EDBB00&border_color=A70042&border_radius=8" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=valle1007&layout=compact&bg_color=004D98&title_color=EDBB00&text_color=FFFFFF&border_color=A70042&border_radius=8" width="48%" />
+
+<br />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=valle1007&background=004D98&border=A70042&stroke=EDBB00&ring=EDBB00&fire=A70042&currFire=EDBB00&sideRing=A70042&date=FFFFFF&currStreakNum=FFFFFF&sideNumbers=FFFFFF&sideTitle=EDBB00&currStreakTitle=EDBB00&border_radius=8" width="97%" />
+
+</div>
 
 ---
 
-### 🏆 Contacto & Cantera
+<div align="center">
 
-- **GitHub:** [valle1007](https://github.com/valle1007)
+<sub><i>Més que un developer • Construyendo código con precisión y estrategia</i></sub>
 
----
-
-<p align="center">
-  <i>"Visca el Barça i visca Catalunya... i el buen código!" 🔵🔴</i>
-</p>
+</div>
